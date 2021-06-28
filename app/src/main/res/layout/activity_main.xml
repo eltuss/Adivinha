@@ -13,8 +13,8 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Escolha um número entre 0 e 10"
-        android:textSize="@dimen/cabecalho_texto"
+        android:text="Escolha um número entre 0 e 10 e aperte jogar"
+        android:textSize="15sp"
         tools:layout_editor_absoluteX="35dp"
         tools:layout_editor_absoluteY="16dp" />
 
